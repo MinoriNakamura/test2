@@ -50,3 +50,5 @@ window生成
 - STEP4   
 DirectInputで動かす
 
+
+
